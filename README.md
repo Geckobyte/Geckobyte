@@ -16,7 +16,6 @@
 [<img align="left" alt="Geckobyte | Discord" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3INNeEkidybmFnDaSKXN7METpHK6nmiDeA&usqp=CAU" />][discord]
 [<img align="left" alt="Geckobyte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Geckobyte | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Geckobyte | E-Mail" width="22px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />][email]
 
 <br />
 
@@ -55,8 +54,7 @@
 <details>
   <summary>:zap: Own GitHub Projects</summary>
   
-1. 🗣 Speech Assistent
-3. 🌍 API
+1. ⏰ coming soon
 
 </details>
 
@@ -65,4 +63,3 @@
 [twitter]: https://twitter.com/geckobytedev
 [discord]: Gecko#6582
 [instagram]: https://www.instagram.com/geckobytedev/
-[email]: https://github.com
