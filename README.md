@@ -52,9 +52,9 @@
 </details>
 
 <details>
-  <summary>:zap: Own GitHub Projects</summary>
+  <summary>:zap: My GitHub Projects</summary>
   
-1. ⏰ coming soon
+1. 🖥 School Discord Bot
 
 </details>
 
