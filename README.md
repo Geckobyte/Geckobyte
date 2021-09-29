@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: My GitHub Projects</summary>
   
-1. 🖥 School Discord Bot
+1. coming soon
 
 </details>
 
