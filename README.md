@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: My GitHub Projects</summary>
   
-1. coming soon
+1. 💻 automaticly creating designs
 
 </details>
 
