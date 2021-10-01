@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: My GitHub Projects</summary>
   
-1. 💻 automaticly creating designs
+1. 💻 [AutoDesigns](https://github.com/Geckobyte/AutoDesigns)
 
 </details>
 
