@@ -54,12 +54,11 @@
 <details>
   <summary>:zap: My GitHub Projects</summary>
   
-1. 💻 [AutoDesigns](https://github.com/Geckobyte/AutoDesigns)
+1. 💻 [SprachAssistent](https://github.com/Geckobyte/SprachAssistent)
 
 </details>
 
 [website]: https://github.com/Geckobyte
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/geckobytedev
-[discord]: Gecko#6582
+[discord]: Geckobyte#6582
 [instagram]: https://www.instagram.com/geckobytedev/
