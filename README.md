@@ -55,7 +55,7 @@
 
 </details>
 
-[website]: geckobytedev.de
+[website]: https://geckobytedev.de
 [twitter]: https://twitter.com/geckobytedev
 [discord]: https://discord.com/channels/@me/863660015357657098
 [instagram]: https://www.instagram.com/geckobytedev/
