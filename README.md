@@ -12,10 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Geckobyte | Discord" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3INNeEkidybmFnDaSKXN7METpHK6nmiDeA&usqp=CAU" />][discord]
-[<img align="left" alt="Geckobyte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Geckobyte | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" />][discord]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -55,7 +55,7 @@
 
 </details>
 
-[website]: https://github.com/Geckobyte
+[website]: geckobytedev.de
 [twitter]: https://twitter.com/geckobytedev
-[discord]: Geckobyte#6582
+[discord]: https://discord.com/channels/@me/863660015357657098
 [instagram]: https://www.instagram.com/geckobytedev/
