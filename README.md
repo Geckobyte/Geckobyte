@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=github/Geckobyte&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/Geckobyte)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geckobytedev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=geckobytedev)
 
-## I'm a Stundent and a Developer !!
+## I'm a Stundent and a Developer ツ
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to improve my programming and design skills
