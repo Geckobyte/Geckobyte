@@ -45,13 +45,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: My GitHub Projects</summary>
-  
-1. 💻 [SprachAssistent](https://github.com/Geckobyte/SprachAssistent)
-
-</details>
-
 [website]: https://geckobytedev.de
 [twitter]: https://twitter.com/geckobytedev
 [discord]: https://discord.com/channels/@me/863660015357657098
